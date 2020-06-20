@@ -1,0 +1,10 @@
+?1
+botton
+?2
+foreground
+?3
+backgrounf
+?4
+logcat
+?5
+???
